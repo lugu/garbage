@@ -1,0 +1,31 @@
+repeat 1 times
+
+repeat 2 times
+repeat 2 times
+
+repeat 3 times
+repeat 3 times
+repeat 3 times
+
+repeat 4 times
+repeat 4 times
+repeat 4 times
+repeat 4 times
+
+repeat 5 times
+repeat 5 times
+repeat 5 times
+repeat 5 times
+repeat 5 times
+
+repeat 6 times
+repeat 6 times
+repeat 6 times
+repeat 6 times
+repeat 6 times
+repeat 6 times
+
+repeat 6 times repeat 6 times
+repeat 2 times repeat 2 times
+repeat 0 times repeat 0 times
+repeat 1 times repeat 1 times
